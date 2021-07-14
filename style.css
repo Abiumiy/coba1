@@ -43,7 +43,7 @@ h1 {
 img.bot {
     position: fixed;
     bottom: 90px;
-    right: 10px;
+    right: 110px;
     width: 50px;
     transition: .30s;
     animation: move 5s linear infinite;
